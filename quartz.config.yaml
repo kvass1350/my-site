@@ -81,7 +81,7 @@ plugins:
     enabled: true
     order: 50
     options:
-      maxDepth: 4
+      maxDepth: 3
     layout:
       position: right
       priority: 30
